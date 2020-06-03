@@ -1,0 +1,13 @@
+
+
+package com.pp;
+
+public class Square{
+	public int square1(int x) {
+	 return x*x;
+	 
+	}
+public int add(int x,int y) {
+	return x+y;
+}
+}

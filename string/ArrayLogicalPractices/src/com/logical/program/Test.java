@@ -1,0 +1,16 @@
+package com.logical.program;
+
+public class Test {
+	public static void main(String[] args) {
+		
+	int i=0;
+	int j=10;
+	do {
+		i++;
+		j--;
+		System.out.println(i+"--abc-"+j);
+	}while(i<5); 
+	System.out.println(i+"---"+j);
+	
+	}
+}

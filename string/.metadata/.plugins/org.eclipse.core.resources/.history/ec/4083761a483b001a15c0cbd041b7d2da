@@ -1,0 +1,11 @@
+package com.logical.program;
+
+public class FindMaxandMin {
+	public static void main(String[] args) {
+		int[]arry= {10,20,30,100,99};
+		
+		int maxnum=0;
+		int minnum=i;
+	}
+
+}

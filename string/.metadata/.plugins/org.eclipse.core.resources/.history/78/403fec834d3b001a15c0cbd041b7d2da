@@ -1,0 +1,12 @@
+package com.logical.program;
+
+public class RemveDUP {
+	public static void main(String[] args) {
+		int[] ArrayNum= {10,20,30,10,20};
+		System.out.println("Original Array :::");
+		for(Integer element:ArrayNum) {
+			System.out.println(element);
+		}
+	}
+
+}

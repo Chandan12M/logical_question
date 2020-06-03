@@ -1,0 +1,25 @@
+package com.pp;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import org.junit.jupiter.api.Test;
+
+class Testcase {
+	@Test
+	public void test() {
+		
+		Square square=new Square();
+		int expected=25;
+		int actula=sqaure.sqaure1(5*5);
+		square.square(5);
+		
+		assertEquals(2, 25);
+		
+		square.add(10, 25);
+		assertEquals(35, 35);
+		
+		
+	}
+
+	
+}
